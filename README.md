@@ -46,8 +46,7 @@ Platforms:  Ubuntu (SEED VM), GitHub Pages
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eamanor8&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eamanor8&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eamanor8&layout=compact" width="100%" />
 </p>
 
 ---
