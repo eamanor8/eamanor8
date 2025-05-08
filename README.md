@@ -1,7 +1,7 @@
 <!-- Profile README for @eamanor8 -->
 
 <h1 align="center">Hi, I'm Ed 👋</h1>
-<p align="center">🎓 PhD Student | 🔐 Security Researcher | 💻 Software Developer</p>
+<p align="center">🎓 PhD Student | 🔐 Security Researcher </p>
 <p align="center">
   <a href="mailto:eamanor8@vt.edu">📫 Email</a> • 
   <a href="https://www.linkedin.com/in/eamanor8">🔗 LinkedIn</a> • 
@@ -12,7 +12,7 @@
 
 ### 🛠️ About Me
 
-I'm currently a PhD student in Computer Science focused on **cybersecurity, cryptography**, and **biometric authentication**. I enjoy implementing secure systems, breaking insecure ones, and learning how to build privacy-preserving technologies.
+I'm currently a PhD student in Computer Science focused on **cybersecurity, cryptography**, and **biometric authentication**. I enjoy implementing secure systems, and learning how to build privacy-preserving technologies.
 
 ---
 
